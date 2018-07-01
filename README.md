@@ -23,3 +23,6 @@ Software
 * GPS handling based on driver an examples from TinyGPSPlus https://github.com/mikalhart/TinyGPSPlus
 * Display handling by Adafruit_SSD1306 driver https://github.com/adafruit/Adafruit_SSD1306
 * LoRaWAN coverage survey via TTN Mapper Integration on TheThingsNetwork https://www.thethingsnetwork.org/docs/applications/ttnmapper/
+
+Screeshot of received payload on TTN
+![enclosure](https://github.com/tdjohnson/mkr1300gps/blob/master/misc/mkr1300gps3.jpeg)
