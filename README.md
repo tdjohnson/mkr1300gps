@@ -13,16 +13,10 @@ Hardware
 * Power Supply: 2 x AA Batteries
 
 Device with all components visible
-[[https://github.com/tdjohnson/mkr1300gps/blob/master/misc/mkr1300gps2.jpeg|alt=components]]
+![components](https://github.com/tdjohnson/mkr1300gps/blob/master/misc/mkr1300gps1.jpeg)
 
 Device in enclosure
-[[https://github.com/tdjohnson/mkr1300gps/blob/master/misc/mkr1300gps1.jpeg|alt=enclosure]]
-
-
-
-
-
-
+![enclosure](https://github.com/tdjohnson/mkr1300gps/blob/master/misc/mkr1300gps2.jpeg)
 
 Software
 * LoRa connectivity by MKRWAN library https://github.com/arduino-libraries/MKRWAN
