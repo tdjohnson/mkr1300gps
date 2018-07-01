@@ -12,6 +12,17 @@ Hardware
 * In-Circuit 868Mhz Antenna RP-SMA, 5cm, +3dB
 * Power Supply: 2 x AA Batteries
 
+Device with all components visible
+[[https://github.com/tdjohnson/mkr1300gps/blob/master/misc/mkr1300gps2.jpeg|alt=components]]
+
+Device in enclosure
+[[https://github.com/tdjohnson/mkr1300gps/blob/master/misc/mkr1300gps1.jpeg|alt=enclosure]]
+
+
+
+
+
+
 
 Software
 * LoRa connectivity by MKRWAN library https://github.com/arduino-libraries/MKRWAN
